@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://koridor.cc" target="_blank" rel="noopener noreferrer">
+  <a href="https://koridor-vue.pages.dev" target="_blank" rel="noopener noreferrer">
     <img src="public/koridor.svg" width="128" alt="Koridor logo">
   </a>
 </p>

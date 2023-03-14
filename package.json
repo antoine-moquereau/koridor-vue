@@ -3,6 +3,13 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
+  "author": "Antoine Moquereau",
+  "homepage": "https://koridor-vue.pages.dev",
+  "bugs": "https://github.com/antoine-moquereau/koridor-vue/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antoine-moquereau/koridor-vue.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc && vite build",
