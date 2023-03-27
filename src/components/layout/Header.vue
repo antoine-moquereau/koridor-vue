@@ -19,7 +19,7 @@
       <ColorModePicker />
       <a
         class="GitHub"
-        href="https://github.com/antoine-moquereau/koridor"
+        href="https://github.com/antoine-moquereau/koridor-vue"
         rel="external"
         title="GitHub Repo"
       >
